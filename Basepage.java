@@ -107,7 +107,9 @@ panel.add(CATEGORYTEXT);
 	      setVisible(true);
 	}
 	
-   
+        public void mouseClicked(MouseEvent me){}
+	public void mousePressed(MouseEvent me){}
+	public void mouseReleased(MouseEvent me){}
 	public void mouseEntered(MouseEvent me){
 		if(me.getSource() == NEXTBUTTON){
 			   NEXTBUTTON.setBackground(new Color(0,122,255));
