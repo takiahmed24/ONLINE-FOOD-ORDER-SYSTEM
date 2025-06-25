@@ -1,0 +1,15 @@
+Burger,350
+French Fries,90
+Hot Dog,250
+Ice Cream,100
+Cake,60
+Brownie,190
+Coke,20
+Coffee,300
+Lemonade,200
+Mango Juice,400
+Latte,500
+Speed,30
+Chocolate Milkshake,40
+Pepsi,20
+Tea,30

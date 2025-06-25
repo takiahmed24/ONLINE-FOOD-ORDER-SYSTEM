@@ -1,0 +1,24 @@
+
+
+=== New Order ===
+Name: TAKI
+Phone: 01924511592
+Address: UTTARA
+Items:
+- Burger | $350.0 | SNACK
+- Red Milk | $500.0 | DRINK
+- Brownie | $190.0 | DESERT
+- Cake | $60.0 | DESERT
+- Coke | $20.0 | DRINK
+Total: $1120.0
+=======================
+
+=== New Order ===
+Name: MUHMMAD TAKI AHMED
+Phone: 01924511592
+Address: UTTARA , DHAKA -1230
+Items:
+- Ice Cream | $100.0 | DESERT
+Total: $100.0
+=======================
+
