@@ -18,12 +18,9 @@ public class Basepage extends JFrame implements MouseListener,ActionListener {
 	JButton NEXTBUTTON, CLOSEBUTTON;
 	
 	//5
-	JRadioButton CATEGORY1, CATEGORY2, CATEGORY3;
-	
-	//6
 	ButtonGroup bg;
 	
-	//7
+	//6
 	ImageIcon img;
 
 	Basepage () {
